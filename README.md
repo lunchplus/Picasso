@@ -6,4 +6,5 @@ General Instructions
 2. Unzip the image assets in the same directory of the jar file.
 
 Note: Picasso will save his "paintings" on your Desktop by default.
+
 Author/Illustrator: Lloyd Wallys Dela Cruz
