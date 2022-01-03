@@ -9,4 +9,9 @@ General Instructions
 
 Note: Picasso will save his "paintings" on your Desktop by default.
 
+Folders:
+Resources - image assets
+Sources - source codes
+Javadocs - documentation
+
 Author/Illustrator: Lloyd Wallys Dela Cruz
