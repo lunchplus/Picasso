@@ -12,6 +12,6 @@ Picasso is virtual painter that utilizes randomized assets to create masterpiece
 	Folders:
 	Resources - image assets
 	Sources - source codes
-	Javadocs - documentation
+	Javadoc - documentation
 
 	Author/Illustrator: Lloyd Wallys Dela Cruz
