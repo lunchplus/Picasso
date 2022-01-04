@@ -1,5 +1,5 @@
 # Picasso
-Picasso is virtual painter that utilizes randomized assets to create masterpieces. As of v1.0 no GUI is available and the program runs on terminal only.
+Picasso is digital painter that utilizes randomized assets to create masterpieces. As of v1.0 no GUI is available and the program runs on terminal only.
 
 	General Instructions
 	1.  After downloading PICASSO.jar
